@@ -7,8 +7,8 @@ function App() {
 
   return (
     <div>
-      {/* <h1>Student List</h1>
-      <List /> */}
+      <h1>Student List</h1>
+      <List />
       <AddProductForm />
     </div>
   )
